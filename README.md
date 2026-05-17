@@ -29,9 +29,9 @@ Android Studio を用いて Java で開発しました。
 
 ## スクリーンショット
 
-![ホーム画面](images/home.png)
-![月選択画面](images/month.png)
-![入力画面](images/input.png)
+![ホーム画面](image/home.png)
+![月選択画面](image/month.png)
+![入力画面](image/input.png)
 
 ---
 
